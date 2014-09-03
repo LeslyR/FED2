@@ -1,5 +1,5 @@
-Lesly Romero - Best Practices
------------------------------
+<h1>Lesly Romero - Best Practices</h1>
+<lr>
 
-<h1>HTML/CSS</h1>
+<h2>HTML/CSS</h2>
 
